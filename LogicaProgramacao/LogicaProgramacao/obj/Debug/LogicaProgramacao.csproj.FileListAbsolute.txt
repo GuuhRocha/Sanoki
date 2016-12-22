@@ -1,0 +1,12 @@
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\LogicaProgramacao\LogicaProgramacao\bin\Debug\LogicaProgramacao.exe.config
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\LogicaProgramacao\LogicaProgramacao\obj\Debug\LogicaProgramacao.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\LogicaProgramacao\LogicaProgramacao\obj\Debug\LogicaProgramacao.Properties.Resources.resources
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\LogicaProgramacao\LogicaProgramacao\obj\Debug\LogicaProgramacao.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\LogicaProgramacao\LogicaProgramacao\bin\Debug\LogicaProgramacao.exe
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\LogicaProgramacao\LogicaProgramacao\bin\Debug\LogicaProgramacao.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\LogicaProgramacao\LogicaProgramacao\obj\Debug\LogicaProgramacao.exe
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\LogicaProgramacao\LogicaProgramacao\obj\Debug\LogicaProgramacao.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\LogicaProgramacao\LogicaProgramacao\obj\Debug\LogicaProgramacao.btnLimpar.resources
+E:\Sanoki\LogicaProgramacao\LogicaProgramacao\bin\Debug\LogicaProgramacao.exe.config
+E:\Sanoki\LogicaProgramacao\LogicaProgramacao\obj\Debug\LogicaProgramacao.exe
+E:\Sanoki\LogicaProgramacao\LogicaProgramacao\obj\Debug\LogicaProgramacao.pdb

@@ -1,0 +1,16 @@
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe.config
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\bin\Debug\MySql.Data.xml
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.frmCadastroCliente.resources
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Properties.Resources.resources
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.exe
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.pdb
+E:\Sanoki\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe.config
+E:\Sanoki\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.exe
+E:\Sanoki\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.pdb
+C:\Users\Gustavo\Desktop\Sanoki\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe.config
+C:\Users\Gustavo\Desktop\Sanoki\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.exe
+C:\Users\Gustavo\Desktop\Sanoki\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.pdb
